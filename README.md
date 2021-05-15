@@ -4,9 +4,10 @@ This repository contains my exercises following [Tableau 2020 A-Z: Hands-On Tabl
 
 ## What is [Tableau](https://www.tableau.com/why-tableau/what-is-tableau)?
 
-Tableau is a widely used business intelligence (BI) and analytics software trusted by companies like Amazon, Experian, and Unilever to explore, visualize, and securely share data in the form of Workbooks and Dashboards. With its user-friendly drag-and-drop functionality it can be used by everyone to quickly clean, analyze, and visualize your team’s data.
 
 <p align="right">
+    Tableau is a widely used business intelligence (BI) and analytics software trusted by companies like Amazon, Experian, and Unilever to explore, visualize, and securely share data in the form of Workbooks and Dashboards. With its user-friendly drag-and-drop functionality it can be used by everyone to quickly clean, analyze, and visualize your team’s data.
+    
     <img width=25% src="logo.png">
 </p>
 
