@@ -22,19 +22,17 @@ Tableau is a widely used business intelligence (BI) and analytics software trust
 
 ## Detailed Content
 
-- Section 1
+- Section 2: Introduction to Tableau
 
-- Section 2
+- Section 3: Tableau Basics - Our first Barchart
 
-- Section 3
+- Section 4: Maps, Scatterplots and our first Dashboard
 
-- Section 4
+- Section 5: Joining and blending relationships, dual axis
 
-- Section 5
+- Section 6: Tableau Calculations, Advanced dashboards and Storytelling
 
-- Section 6
-
-- Section 7
+- Section 7: 
 
 - Section 8
 
