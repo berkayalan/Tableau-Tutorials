@@ -4,7 +4,10 @@ This repository contains my exercises following [Tableau 2020 A-Z: Hands-On Tabl
 
 ## What is Tableau?
 
-                                                                                                                  ![Tableau Logo](/logo.png)
+<p align="left">
+    <img width=60% src="logo.png">
+</p>
+
 
 ## General Content
 
