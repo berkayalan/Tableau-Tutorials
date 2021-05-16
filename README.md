@@ -54,3 +54,9 @@ Tableau is a widely used business intelligence (BI) and analytics software trust
 
 - Section 8
 
+
+## Some extra Resources to read
+
+- [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
+
+- [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782)
