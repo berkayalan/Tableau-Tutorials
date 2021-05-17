@@ -54,6 +54,7 @@ Tableau is a widely used business intelligence (BI) and analytics software trust
 
 - Section 8
 
+All datasets can be downloaded also from [here](https://www.superdatascience.com/pages/tableau).
 
 ## Some extra Resources to read
 
